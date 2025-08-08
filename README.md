@@ -1,10 +1,4 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=iYOz165wGkQ" target="_blank">
-      <img src="public/readme/hero.webp" alt="AI Resume Analyzer - Smart feedback for your dream job">
-    </a>
-  <br />
-
   <div>
     <img alt="React" src="https://img.shields.io/badge/React-19.1.0-4c84f3?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/React_Router-7.5.3-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
@@ -22,7 +16,7 @@
   </p>
 
    <div align="center">
-     Built step by step with detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
+     Built step by step with detailed tutorial on <b>JavaScript Mastery</b> YouTube.
     </div>
 </div>
 
@@ -49,7 +43,7 @@
 **AI Resume Analyzer** is a powerful, modern web application that leverages artificial intelligence to provide comprehensive resume analysis and feedback. Built with React, TypeScript, and Puter.js, this application helps job seekers optimize their resumes for Applicant Tracking Systems (ATS) and improve their overall presentation.
 
 <div align="center">
-  <img src="public/images/homepage.png" alt="AI Resume Analyzer Homepage" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="homepage.png" alt="AI Resume Analyzer Homepage" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p><em>Clean, modern dashboard showing all your analyzed resumes</em></p>
 </div>
 
@@ -78,7 +72,7 @@
 - **Quick Access**: Fast loading and browsing of all your uploaded resumes
 
 <div align="center">
-  <img src="public/images/upload.png" alt="Resume Upload Interface" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="upload.png" alt="Resume Upload Interface" width="800" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p><em>Intuitive drag-and-drop upload interface with job details form</em></p>
 </div>
 
@@ -308,7 +302,7 @@ export default [
 ### **Understanding Your Results**
 
 <div align="center">
-  <img src="public/images/analyze_result.png" alt="Detailed Analysis Results" width="700" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="analyze_results.png" alt="Detailed Analysis Results" width="700" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   <p><em>Comprehensive analysis showing scores across all categories with detailed feedback</em></p>
 </div>
 
